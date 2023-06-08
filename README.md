@@ -37,6 +37,11 @@ Kevin Powell - tornando o CSS mais simpático
 https://www.youtube.com/@KevinPowell 
 
 
+## Cursos na Udemy em Português
+Algotimos e Lógica de Programação - prof. Nélio Alves
+https://www.udemy.com/course-dashboard-redirect/?course_id=2420534
+
+
 ## Cursos na Udemy em Inglês
 Python Bootcamp - Angela Yu  (**TOP** **INICIANTE**)
 https://www.udemy.com/course-dashboard-redirect/?course_id=2776760
@@ -49,11 +54,6 @@ https://www.udemy.com/course-dashboard-redirect/?course_id=4094340
 
 Math For Data Science
 https://www.udemy.com/course-dashboard-redirect/?course_id=4849126
-
-
-## Cursos na Udemy em Português
-Algotimos e Lógica de Programação - prof. Nélio Alves
-https://www.udemy.com/course-dashboard-redirect/?course_id=2420534
 
 
 ## Cursos na Coursera em Português (gratuitos sem certificado)
