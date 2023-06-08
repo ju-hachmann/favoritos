@@ -21,7 +21,7 @@ https://www.youtube.com/@cadona3915/videos
 
 
 ## Canais Youtube em Inglês
-Fireship - novidades sobre tecnologia em geral
+Fireship - novidades sobre tecnologia em geral, conceitos de programação, humor
 https://www.youtube.com/@Fireship
 
 CrashCourse Computer Science - teoria em Ciência da Computação explicada para leigos
